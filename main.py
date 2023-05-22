@@ -38,7 +38,7 @@ def model_init(comode):
 
     if comode=='rmdemo':
         print(f'{format_time()} load trec collections ...')
-        psg_collections = load_tsv('corank_data_msmarco/collection.tsv')
+        psg_collections = load_tsv('data_msmarco/collection.tsv')
     else:
         psg_collections = None
 

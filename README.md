@@ -17,9 +17,9 @@ wget https://www.dropbox.com/s/rf24cgsqetwbykr/lucene-index-msmarco-passage.tgz?
 wget https://www.dropbox.com/s/5vhl1aynl0kg3rj/contriever_msmarco_index.tar.gz?dl=0
 # then unzip two tgz files into ./indexes/
 
-mkdir ./corank_data_msmarco/
+mkdir ./data_msmarco/
 wget https://www.dropbox.com/s/yms13b9k850b3vt/collection.tsv?dl=0
-# then put tsv file into ./corank_data_msmarco/
+# then put tsv file into ./data_msmarco/
 ```
 
 ## 3. run InteR

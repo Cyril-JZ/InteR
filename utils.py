@@ -39,6 +39,6 @@ def load_tsv(input_file, quotechar=None):
 
 
 def remove_multiple_strings(cur_string, replace_list):
-  for cur_word in replace_list:
-    cur_string = cur_string.replace(cur_word, '')
-  return cur_string
+    for cur_word in replace_list:
+        cur_string = cur_string.replace(cur_word, '')
+    return cur_string
