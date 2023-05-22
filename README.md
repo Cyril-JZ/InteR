@@ -1,6 +1,6 @@
 # Knowledge Refinement via Interaction Between Search Engines and Large Language Models
 
-This repository is the official implementation of [*Knowledge Refinement via Interaction Between Search Engines and Large Language Models*](https://arxiv.org/abs/2305.07402).
+This repository is the implementation of [*Knowledge Refinement via Interaction Between Search Engines and Large Language Models*](https://arxiv.org/abs/2305.07402).
 
 ## 1. create environment
 ```shell
