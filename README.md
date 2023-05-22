@@ -27,8 +27,8 @@ You may edit the **openai key** in `main.py` first.
 
 ```shell
 mkdir ./runs_inter
-run_dl19.sh  # for DL'19
-run_dl20.sh  # for DL'20
+./run_dl19.sh  # for DL'19
+./run_dl20.sh  # for DL'20
 ```
 
 
