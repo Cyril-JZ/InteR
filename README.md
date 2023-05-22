@@ -12,12 +12,12 @@ pip install -U openai pyserini
 
 ## 2. download index and passage data 
 ```shell
-cd ./indexes/
+mkdir ./indexes/
 wget https://www.dropbox.com/s/rf24cgsqetwbykr/lucene-index-msmarco-passage.tgz?dl=0
 wget https://www.dropbox.com/s/5vhl1aynl0kg3rj/contriever_msmarco_index.tar.gz?dl=0
 # then unzip two tgz files into ./indexes/
 
-cd ./corank_data_msmarco/
+mkdir ./corank_data_msmarco/
 wget https://www.dropbox.com/s/yms13b9k850b3vt/collection.tsv?dl=0
 # then put tsv file into ./corank_data_msmarco/
 ```
