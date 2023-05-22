@@ -26,7 +26,7 @@ wget https://www.dropbox.com/s/yms13b9k850b3vt/collection.tsv?dl=0
 You may edit the **openai key** in `main.py` first.
 
 ```shell
-mkdir runs_inter
+mkdir ./runs_inter
 run_dl19.sh  # for DL'19
 run_dl20.sh  # for DL'20
 ```
