@@ -1,6 +1,6 @@
 # Synergistic Interplay between Search and Large Language Models for Information Retrieval
 
-This repository is the implementation of [*Synergistic Interplay between Search and Large Language Models for Information Retrieval*](https://arxiv.org/abs/2305.07402).
+This repository is the implementation of ACL 2024 paper: [*Synergistic Interplay between Search and Large Language Models for Information Retrieval*](https://arxiv.org/abs/2305.07402).
 
 ## 1. create environment
 ```shell
