@@ -1,6 +1,6 @@
 # Synergistic Interplay between Search and Large Language Models for Information Retrieval
 
-This repository is the implementation of ACL 2024 paper: [*Synergistic Interplay between Search and Large Language Models for Information Retrieval*](https://arxiv.org/abs/2305.07402).
+This repository is the official implementation of ACL 2024 paper: [*Synergistic Interplay between Search and Large Language Models for Information Retrieval*](https://arxiv.org/abs/2305.07402).
 
 ## 1. create environment
 ```shell
@@ -34,10 +34,12 @@ mkdir ./runs_inter
 
 ### If you find this work helpful, please cite our paper:
 ```latex
-@article{feng2023synergistic,
-  title={Synergistic Interplay between Search and Large Language Models for Information Retrieval},
-  author={Feng, Jiazhan and Tao, Chongyang and Geng, Xiubo and Shen, Tao and Xu, Can and Long, Guodong and Zhao, Dongyan and Jiang, Daxin},
-  journal={arXiv preprint arXiv:2305.07402},
-  year={2023}
+@misc{feng2023synergistic,
+      title={Synergistic Interplay between Search and Large Language Models for Information Retrieval}, 
+      author={Jiazhan Feng and Chongyang Tao and Xiubo Geng and Tao Shen and Can Xu and Guodong Long and Dongyan Zhao and Daxin Jiang},
+      year={2023},
+      eprint={2305.07402},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
